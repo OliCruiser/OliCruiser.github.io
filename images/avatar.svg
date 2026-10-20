@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="头像">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#37c6c0"/>
+      <stop offset="55%" stop-color="#4f9dff"/>
+      <stop offset="100%" stop-color="#7b6cff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.3" cy="0.25" r="0.75">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="240" height="240" fill="url(#g)"/>
+  <rect width="240" height="240" fill="url(#glow)"/>
+  <circle cx="196" cy="44" r="34" fill="#ffffff" opacity="0.14"/>
+  <circle cx="34" cy="196" r="46" fill="#ffffff" opacity="0.10"/>
+  <text x="120" y="120" text-anchor="middle" dominant-baseline="central"
+        font-family="Georgia, 'Times New Roman', 'Songti SC', 'SimSun', serif"
+        font-size="118" font-weight="600" fill="#ffffff" opacity="0.95">O</text>
+</svg>

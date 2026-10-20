@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>Oliver</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://olicruiser.github.io/</id>
+  <link href="https://olicruiser.github.io/" rel="alternate"/>
+  <link href="https://olicruiser.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Oliver</rights>
+  <subtitle>一个兴趣使然的杂食者</subtitle>
+  <title>Fly Me To The Moon</title>
+  <updated>2026-10-20T02:58:11.591Z</updated>
+  <entry>
+    <author>
+      <name>Oliver</name>
+    </author>
+    <category term="随笔" scheme="https://olicruiser.github.io/categories/essays/"/>
+    <category term="开始" scheme="https://olicruiser.github.io/tags/start/"/>
+    <content>
+      <![CDATA[<p>博客重新搭好了，换了 Butterfly 主题，加了一个相册页。</p><p>旧文章都清掉了，这里从零开始。</p><blockquote><p>这条只是占位，写第一篇正式文章时可以直接删掉它。</p></blockquote>]]>
+    </content>
+    <id>https://olicruiser.github.io/2026/10/19/hello/</id>
+    <link href="https://olicruiser.github.io/2026/10/19/hello/"/>
+    <published>2026-10-19T10:00:00.000Z</published>
+    <summary>博客重新搭好了，先留一个位置。</summary>
+    <title>开张</title>
+    <updated>2026-10-20T02:58:11.591Z</updated>
+  </entry>
+</feed>
